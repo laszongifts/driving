@@ -1,0 +1,246 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(37, 145, 153);
+    width: 100%;
+    height: auto;
+
+}
+
+.nav {
+    background-color: rgb(0, 46, 58);
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    border-radius: 0px 0px 100px 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.logonav{
+    width: auto;
+    height: 55px;
+    margin-top: 22px;
+}
+
+
+.callusnow {
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    padding-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.hithere{
+    
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    margin-top: 80px;
+    
+}
+
+.giftboxone{
+    display: none;
+}
+
+
+.hitheretext{
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    padding-top: 25px;
+    margin-bottom: 0%;
+    color: rgb(233, 233, 233);
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+
+.hitheretext2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 8px;
+    color: rgb(233, 233, 233);
+    letter-spacing: 3px;
+}
+
+.giftbox{
+    display: none;
+
+}
+
+
+.mobilehithere{
+    display: none;
+
+}
+
+.joinus{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 60px;
+    color: rgb(233, 233, 233);
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+
+.mbsocialbutton{
+    width: 250px;
+    margin: 8px;
+  
+}
+
+.mobilebuttons{
+    width: 360px;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 0%;
+    
+   
+    
+}
+ 
+
+
+.logo{
+    width: 180px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+  
+}
+
+.secondnav{
+    display: none;
+}
+
+footer{
+    display: none;
+}
+
+
+
+@media only screen and (max-width: 450px) {
+
+    body {
+        margin: 0%;
+        padding: 0%;
+        background-color: #99d2e6;
+        width: 100%;
+        height:auto;
+        
+    }
+
+
+    .nav {
+        background-color: rgb(0, 46, 58);
+        width: 100%;
+        height: 75px;
+        margin: auto;
+        border-radius: 0px 0px 60px 60px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        margin-bottom: 0%;
+        padding-bottom: 0%;
+    }
+
+    .logonav{
+        width: auto;
+        height: 43px;
+        margin-top: 17px;
+    }
+
+    .flyer{
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    
+    .hithere{
+        display: none;
+    }
+    
+    .mobilehithere{
+        display: list-item;
+        width: 100%;
+        height: auto;
+    }
+
+
+    .secondnav{
+        background-color: rgb(255, 255, 255);
+        width: 100%;
+        height: 600px;
+        border-radius: 60px 60px 0px 0px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        display: list-item;
+        margin-top: 10px;
+        position: absolute;
+        
+      
+        
+    }
+
+    .joinus{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 17px;
+        margin-top: 60px;
+        color: rgb(41, 38, 38);
+        letter-spacing: 0px;
+        text-align: center;
+        font-weight: 800;
+        margin-bottom: 0%;
+    }
+
+    .buttons{
+        margin: auto;
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-top: 33px;
+       
+    }
+
+
+    .socialbutton{
+        width: 270px;
+        margin-top: 15px;
+        height: auto;
+    
+    }
+    
+   
+
+    .mobilebuttons{
+        display: none;
+    }
+
+    .buttonicon{
+        width: 100%;
+        height: 41px;
+        margin-top: -15px;
+        margin-bottom: 10px;
+    }
+    
+    
+
+}
+
+
+
+
+
+
