@@ -80,6 +80,7 @@
 
     .buttoniconweb{
         width: 40px;
+        
     }
       
     .main {
@@ -90,6 +91,7 @@
     .mobilebuttons{ 
         width: 50%;
         height: 150px;
+        
     }
 
     .mobilebuttonstwo{
@@ -250,6 +252,17 @@ footer{
         margin-top: 45px;
     }
 
+.callnowtext{
+    text-align: center;
+        font-size: 10pt;
+        font-family: 'Roboto', sans-serif;
+        margin-top: -6px;
+        color: rgb(8, 8, 8);
+    }
+
+}
+
+   
     .thankyou{
         text-align: center;
         font-size: 9.5pt;
