@@ -174,10 +174,6 @@
 
 
 
-
- 
-
-
 .logo{
     width: 180px;
     height: auto;
@@ -188,17 +184,22 @@
   
 }
 
-.secondnav{
-    display: none;
-}
 
 footer{
     display: none;
 }
 
+.secondnav{
+    display: none;
+}
+
+
 
 
 @media only screen and (max-width: 450px) {
+
+
+    
 
     .root {
         margin: 0%;
@@ -260,7 +261,7 @@ footer{
         color: rgb(8, 8, 8);
     }
 
-}
+
 
    
     .thankyou{
@@ -332,10 +333,10 @@ footer{
         margin-bottom: 10px;
         margin-top: -18px;
     }
-    
+}
     
 
-}
+
 
 
 
