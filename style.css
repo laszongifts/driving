@@ -14,7 +14,7 @@
     }
 
     .nav {
-        background-color: rgb(0, 57, 71);
+        background-color: #1895a0;
         width: 100%;
         height: 70px;
         margin: auto;
@@ -139,7 +139,7 @@
     font-size: 28px;
     padding-top: 25px;
     margin-bottom: 0%;
-    color: rgb(24, 24, 24);
+    color: #0f7983;
     font-weight: 600;
     font-family: "Raleway", sans-serif;
 }
@@ -159,16 +159,31 @@
 }
 
 
+.callnowtextweb{
+    text-align: center;
+        font-size: 13.5pt;
+        font-family: "Montserrat", sans-serif;
+        margin-top: -6px;
+        color: #09666e;
+        font-weight: 600;
+        animation: blinker 2s linear infinite;
+    }
+
+    @keyframes blinker {
+        50% {
+          opacity: 0;
+        }
+      }
+
 .mobilehithere{
     display: none;
 }
 
-.joinus{
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    margin-top: 60px;
-    color: rgb(233, 233, 233);
-    letter-spacing: 3px;
+.joinusweb{
+    font-family: "Raleway", sans-serif;
+    font-size: 13pt;
+    margin-top: 65px;
+    color: rgb(44, 44, 44);
     text-align: center;
 }
 
@@ -204,7 +219,7 @@ footer{
     .root {
         margin: 0%;
         padding: 0%;
-        background-color: #99d2e6;
+        background-color: #9fdee0;
         width: 100%;
         height:800px
 ;
@@ -212,12 +227,11 @@ footer{
 
 
     .nav {
-        background-color: rgb(0, 46, 58);
+        background-color: #12808a;
         width: 100%;
         height: 75px;
         margin: auto;
         border-radius: 0px 0px 60px 60px;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         margin-bottom: 0%;
         padding-bottom: 0%;
     }
@@ -227,6 +241,7 @@ footer{
         height: 43px;
         margin-top: 15px;
         float: none;
+        margin-left: 8px;
     }
 
     .flyer{
@@ -247,6 +262,7 @@ footer{
     }
 
     .welcome{
+        color: #09666e;
         text-align: center;
         font-size: 13pt;
         font-family: "Raleway", sans-serif;
@@ -254,12 +270,22 @@ footer{
     }
 
 .callnowtext{
-    text-align: center;
-        font-size: 10pt;
-        font-family: 'Roboto', sans-serif;
-        margin-top: -6px;
-        color: rgb(8, 8, 8);
+        text-align: center;
+        color: #056169;
+        font-size: 11pt;
+        font-family: "Montserrat", sans-serif;
+        margin-top: -2px;
+        font-weight: 600;
+        animation: blinker 2s linear infinite;
+
+       
     }
+
+    @keyframes blinker {
+        50% {
+          opacity: 0;
+        }
+      }
 
 
 
@@ -286,7 +312,7 @@ footer{
 
     .joinus{
         font-family: "Raleway", sans-serif;
-        font-size: 17px;
+        font-size: 16px;
         margin-top: 28px;
         color: rgb(41, 38, 38);
         letter-spacing: 0px;
