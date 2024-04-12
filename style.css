@@ -262,7 +262,7 @@ footer{
     .welcome{
         color: #09666e;
         text-align: center;
-        font-size: 12pt;
+        font-size: 12.5pt;
         font-family: "Montserrat", sans-serif;
         margin-top: 45px;
     }
@@ -290,9 +290,10 @@ footer{
    
     .thankyou{
         text-align: center;
-        font-size: 9pt;
+        font-size: 9.5pt;
         font-family: "Montserrat", sans-serif;
         line-height: 17px;
+        font-weight: 450;
     }
 
 
