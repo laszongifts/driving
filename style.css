@@ -51,7 +51,7 @@
         text-align: center;
         padding: 0%;
         text-decoration: none;
-        font-family: "Raleway", sans-serif;
+        font-family: "Montserrat", sans-serif;
         font-size: 11pt;
         margin-right: -50px;
 
@@ -63,7 +63,7 @@
         text-align: center;
         padding: 24px 50px;
         text-decoration: none;
-        font-family: "Raleway", sans-serif;
+        font-family: "Montserrat", sans-serif;
         font-size: 11pt;
     }
 
@@ -74,7 +74,7 @@
         color: rgb(20, 20, 20);
         text-align: center;
         font-size: 14pt;
-        font-family: "Raleway", sans-serif;
+        font-family: "Montserrat", sans-serif;
       
     }
 
@@ -135,22 +135,20 @@
 
 
 .hitheretext{
-    font-family: 'Roboto', sans-serif;
     font-size: 28px;
     padding-top: 25px;
     margin-bottom: 0%;
     color: #0f7983;
     font-weight: 600;
-    font-family: "Raleway", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 
 .hitheretext2{
-    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     margin-top: 18px;
     color: rgb(24, 24, 24);
-    font-family: "Raleway", sans-serif;
+    font-family: "Montserrat", sans-serif;
     line-height: 23px;
 }
 
@@ -180,7 +178,7 @@
 }
 
 .joinusweb{
-    font-family: "Raleway", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 13pt;
     margin-top: 65px;
     color: rgb(44, 44, 44);
@@ -264,15 +262,15 @@ footer{
     .welcome{
         color: #09666e;
         text-align: center;
-        font-size: 13pt;
-        font-family: "Raleway", sans-serif;
+        font-size: 12pt;
+        font-family: "Montserrat", sans-serif;
         margin-top: 45px;
     }
 
 .callnowtext{
         text-align: center;
         color: #056169;
-        font-size: 11pt;
+        font-size: 10pt;
         font-family: "Montserrat", sans-serif;
         margin-top: -2px;
         font-weight: 600;
@@ -292,8 +290,8 @@ footer{
    
     .thankyou{
         text-align: center;
-        font-size: 9.5pt;
-        font-family: "Raleway", sans-serif;
+        font-size: 9pt;
+        font-family: "Montserrat", sans-serif;
         line-height: 17px;
     }
 
@@ -311,7 +309,7 @@ footer{
     }
 
     .joinus{
-        font-family: "Raleway", sans-serif;
+        font-family: "Montserrat", sans-serif;
         font-size: 16px;
         margin-top: 28px;
         color: rgb(41, 38, 38);
